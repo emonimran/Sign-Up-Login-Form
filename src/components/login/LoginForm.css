@@ -1,0 +1,10 @@
+.large-bottom-margin {
+  margin-bottom: 100px;
+}
+
+.form-control {
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+  outline: none;
+}
